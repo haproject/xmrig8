@@ -62,8 +62,8 @@
         {
             "algo": "cn-heavy/xhv",
             "coin": null,
-            "url": "pool.hashvault.pro:7777",
-            "user": "hvxxu6kdh3aQASxLrYocUXJWWUPmk5Y9Nh7ktRMhhM4Afz7j7PnSH55eG3ubD1oc4FU4JhW3dQZ7B7mbXiyk3dnj6u4Vdhyjy9",
+            "url": "haven.herominers.com:10451",
+            "user": "hvxxvZH3Gd7SygaC4JxTSU2SYcti9bDpFP9FjVhHGbdbEoe7TMQmT6C9XXsHTBqXzCErxWVLAuWDqYdHmzhUNYjt6JEZpt2ztH",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
